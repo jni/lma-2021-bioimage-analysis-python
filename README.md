@@ -10,7 +10,11 @@ The target audience are people aiming to work with images and doing image visual
 
 We recommend that you use Python 3.9 for this tutorial. Both 3.7 and 3.8 should also work but have not been tested. If you are using macOS Big Sur, only Python 3.9 works.
 
-To perform this tutorial, we first need to set up our environment. To do so, please clone the repository containing the tutorial materials to your computer. We recommend cloning the materials into your Documents folder, but you can choose another suitable location. First, open your Terminal navigate to you the folder you will download the course materials into
+To perform this tutorial, we first need to set up our environment. To do so, please copy the repository containing the tutorial materials to your computer. We recommend cloning the materials into your Documents folder, but you can choose another suitable location.
+
+### Method 1: using git
+
+If you already use git, follow these instructions to clone the repo to your local computer. You may want to change the folder to which you clone the repo.
 
 ```bash
 cd ~/Documents
@@ -28,9 +32,19 @@ Then, navigate to the directory you just cloned.
 cd lma-2021-bioimage-analysis-python
 ```
 
+### Method 2: Download a zip file
+
+If you don't want to use git, you can download a zip file from the repo:
+
+![download link screenshot](images/repo-screenshot.png)
+
+Unzip the files to a folder of your choice.
+
+### Setting up an environment
+
 Next we must install the dependencies for this tutorial, which can be done either with conda or pip.
 
-### with conda
+#### with conda
 
 We have provided a conda environment file to set up your python environment for this tutorial. To install the dependencies, please enter the following. This may take 5-10 minutes.
 
@@ -60,7 +74,7 @@ Once the installation has been completed, activate your tutorial environment
 conda activate lma21
 ```
 
-### with pip
+#### with pip
 
 Alternatively, in an environment including pip, use:
 
