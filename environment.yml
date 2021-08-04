@@ -1,4 +1,4 @@
-name: scipy2021-bioimage-analysis
+name: lma21
 channels:
 - conda-forge
 dependencies:

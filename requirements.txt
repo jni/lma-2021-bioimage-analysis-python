@@ -1,6 +1,6 @@
 numpy
 scipy
-scikit-image
+scikit-image[data]
 scikit-learn
 dask
 zarr
@@ -9,7 +9,7 @@ ipython
 matplotlib
 jupyter
 notebook
-napari
+napari[all]
 pandas
 seaborn
 dask-image==0.5.0
