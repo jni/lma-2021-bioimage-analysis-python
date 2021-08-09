@@ -111,3 +111,11 @@ specifically:
 - the [Chinese Hamster Ovarian (CHO) nuclei overexpressing GFP-PCNA training
   dataset](http://data.celltrackingchallenge.net/training-datasets/Fluo-N3DH-CHO.zip)
   (98MB)
+
+  
+## Getting help after the workshop
+
+There are several forums you can use to get help and advice with your image analysis after this workshop is over.
+
+* The image.sc forum is an excellent general source of advice, either by searching old questions or adding your own: https://forum.image.sc
+* For questions specifically about napari, you can post in the napari zulip chat: https://napari.zulipchat.com

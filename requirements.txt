@@ -3,6 +3,7 @@ scipy
 scikit-image[data]
 scikit-learn
 dask
+dask-labextension
 zarr
 bokeh
 ipython
@@ -17,3 +18,4 @@ magicgui
 jupyterlab
 jupyter-book
 ghp-import
+cellpose

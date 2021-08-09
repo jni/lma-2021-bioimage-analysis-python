@@ -9,6 +9,7 @@ dependencies:
 - scikit-image
 - scikit-learn
 - dask
+- dask-labextension
 - zarr
 - bokeh
 - ipython
@@ -24,3 +25,4 @@ dependencies:
 - pip:
     - jupyter-book
     - ghp-import
+    - cellpose
