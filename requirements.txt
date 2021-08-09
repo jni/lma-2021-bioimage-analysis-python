@@ -3,6 +3,7 @@ scipy
 scikit-image[data]
 scikit-learn
 dask
+dask-labextension
 zarr
 bokeh
 ipython

@@ -9,6 +9,7 @@ dependencies:
 - scikit-image
 - scikit-learn
 - dask
+- dask-labextension
 - zarr
 - bokeh
 - ipython
