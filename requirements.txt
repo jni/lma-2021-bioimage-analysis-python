@@ -18,3 +18,4 @@ magicgui
 jupyterlab
 jupyter-book
 ghp-import
+cellpose
