@@ -112,10 +112,23 @@ specifically:
   dataset](http://data.celltrackingchallenge.net/training-datasets/Fluo-N3DH-CHO.zip)
   (98MB)
 
-  
+
 ## Getting help after the workshop
 
 There are several forums you can use to get help and advice with your image analysis after this workshop is over.
 
 * The image.sc forum is an excellent general source of advice, either by searching old questions or adding your own: https://forum.image.sc
 * For questions specifically about napari, you can post in the napari zulip chat: https://napari.zulipchat.com
+
+## Further learning resources
+
+As suggested by workshop participants
+
+* The BioImage Informatics Index training materials page - https://biii.eu/training-material
+* The freely available textbook *"Bioimage data analysis workflows"* by Kota Miura and Nataša Sladoje. The complete book can be downloaded in full (epub/pdf) from several locations on the web, [including here](https://link.springer.com/book/10.1007/978-3-030-22386-1).
+* NEUBIAS training materials
+    * The [NEUBIAS YouTube channel](https://www.youtube.com/c/NEUBIAS/videos)
+    * The [NEUBIAS Academy @ Home webinars](http://eubias.org/NEUBIAS/training-schools/neubias-academy-home/)
+* Tutorial materials on [Interactive Bioimage Analysis with Python and Jupyter](https://github.com/guiwitz/neubias_academy_biapy) by Guillaume Witz
+* This [list of annotation tools for machine learning research](https://www.simonwenkel.com/2019/07/19/list-of-annotation-tools-for-machine-learning-research.html)
+* ... and many other suggestions compiled in [this forum discussion](https://forum.image.sc/t/bioimage-analysis-recommended-reading-and-viewing/28051) (there's a ton of information and suggestions in that discussion thread!)
